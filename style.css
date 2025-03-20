@@ -87,7 +87,7 @@ button:active {
 @media only screen and (max-width: 550px) {
     .container {
 
-        width: 500px;
+        width: 90%;
         min-height: 60vh;
         margin: auto;
         padding: 10px;
